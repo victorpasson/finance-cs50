@@ -8,7 +8,7 @@ Repositório que contém o código para a solução do nono projeto do curso CS5
 
 O projeto foi disponibilizado para interação por meio do [Python Any Where](https://vvpasson.pythonanywhere.com/login).
 
-Obs.: Por estar utilizando uma chave API de teste grátis da IEX Cloud, quando tentar fazer a busca por ações pode não funcionar, retornar que é inválido, isso porque a chave grátis tem tempo de duração. Após o tempo grátis somente pagando para continuar utilizando a API.
+Obs.: Por a aplicação estar utilizando uma chave API de teste grátis da IEX Cloud pode ser que quando você tentar fazer a busca por ações pode não funciona - retornará que é inválida - isso ocorre porque a chave grátis tem tempo de duração. Após o tempo de teste gratuito somente pagando para continuar realizando consultas na plataforma da IEX Cloud, o que não é de meu interesse.
 
 ## Youtube Vídeo
 
