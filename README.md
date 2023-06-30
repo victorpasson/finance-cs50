@@ -2,7 +2,7 @@
 
 Repositório que contém o código para a solução do nono projeto do curso CS50. A aplicação consiste em uma empresa de compra e vendas de ações. O objetivo principal do projeto é permitir que os usuários veja a cotação atual, compre ações, venda ações e veja seu histórico de transações. A aplicação foi construída com o Flask framework.
 
-[![Page Wiki Project](https://i.ibb.co/fS4Tdcm/Dja.webp)](https://youtu.be/2v3xc0ACs0s)
+[![Page Wiki Project](https://i.ibb.co/qYLb5gk/Dja.png)](https://youtu.be/2v3xc0ACs0s)
 
 ## Página do Projeto
 
