@@ -2,11 +2,13 @@
 
 Repositório que contém o código para a solução do nono projeto do curso CS50. A aplicação consiste em uma empresa de compra e vendas de ações. O objetivo principal do projeto é permitir que os usuários veja a cotação atual, compre ações, venda ações e veja seu histórico de transações. A aplicação foi construída com o Flask framework.
 
-[![Page Wiki Project](https://i.postimg.cc/JnfrdSf6/Dja.png)](https://youtu.be/2v3xc0ACs0s)
+[![Page Wiki Project](https://i.postimg.cc/JnfrdSf6/Dja.png)](https://vvpasson.pythonanywhere.com/login)
 
 ## Página do Projeto
 
-O projeto foi disponibilizado para interação por meio do [Python Any Where](https://jvpasson.pythonanywhere.com).
+O projeto foi disponibilizado para interação por meio do [Python Any Where](https://vvpasson.pythonanywhere.com/login).
+
+Obs.: Por estar utilizando uma chave API de teste grátis da IEX Cloud, quando tentar fazer a busca por ações pode não funcionar, retornar que é inválido, isso porque a chave grátis tem tempo de duração. Após o tempo grátis somente pagando para continuar utilizando a API.
 
 ## Youtube Vídeo
 
